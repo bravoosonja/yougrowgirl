@@ -1,3 +1,27 @@
 body {
-    font-family: 'Lora', serif;
+  font-family: "Lora", serif;
+}
+
+.first-container {
+  background-color: #8e7dbe;
+  color: white;
+}
+
+.info-box {
+  background-color: #f1e3d3;
+  color: #006d77;
+}
+
+.quote-box {
+  background-color: #99c1b9;
+  color: #495057;
+}
+
+.footer {
+  background-color: #f2d0a9;
+}
+
+.call-to-action {
+  background-color: #d88c9a;
+  color: #495057;
 }
