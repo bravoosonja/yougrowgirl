@@ -40,7 +40,8 @@ li {
 }
 
 ul {
-  margin-left: 700px;
+  text-align: right;
+  padding-right: 100px;
 }
 
 .links {
@@ -50,7 +51,7 @@ ul {
   justify-content: flex-end;
   align-items: space-between;
   flex: 2 1 0%;
-  margin-left: 150px;
+  margin-left: 50px;
 }
 
 .hero-box {
