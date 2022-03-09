@@ -1,10 +1,79 @@
-body {
+* {
   font-family: "Lora", serif;
+  margin:0;
+  padding: 0;
 }
 
 .first-container {
   background-color: #8e7dbe;
   color: white;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    
+
+}
+
+.header-logo {
+  font-weight: 500;
+  font-size: 22px;
+  padding: 16px;
+  flex: 1 1 0%;
+  justify-content: flex-start;
+  margin-left: 70px;
+  
+  
+
+  
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+    
+   
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    justify-content: flex-end;
+    text-align: right;
+}
+
+ul {
+    margin-left: 700px; 
+}
+
+.links {
+  font-weight: 400;
+  font-size: 16px;
+  padding: 16px;
+  justify-content: flex-end;
+  align-items: space-between;
+  flex: 2 1 0%;
+  margin-left:150px;
+ 
+}
+
+.hero-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.hero-box-left {
+flex: 1 1 0%;
+}
+
+.hero-box-right {
+flex: 2 1 0%;
 }
 
 .info-box {
@@ -23,5 +92,5 @@ body {
 
 .call-to-action {
   background-color: #d88c9a;
-  color: #495057;
+  color: #f1e3d3;
 }
