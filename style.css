@@ -1,54 +1,46 @@
 * {
   font-family: "Lora", serif;
-  margin:0;
+  margin: 0;
   padding: 0;
 }
 
 .first-container {
-  background-color: #8e7dbe;
+  background-color: #99c1b9;
   color: white;
 }
 
 .header {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-self: center;
-    
-
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
 }
 
 .header-logo {
   font-weight: 500;
-  font-size: 22px;
+  font-size: 18px;
   padding: 16px;
   flex: 1 1 0%;
   justify-content: flex-start;
   margin-left: 70px;
-  
-  
-
-  
 }
 
 a {
-    text-decoration: none;
-    color: white;
-    display: block;
-    padding: 10px;
-    
-   
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 10px;
 }
 
 li {
-    list-style: none;
-    display: inline-block;
-    justify-content: flex-end;
-    text-align: right;
+  list-style: none;
+  display: inline-block;
+  justify-content: flex-end;
+  text-align: right;
 }
 
 ul {
-    margin-left: 700px; 
+  margin-left: 700px;
 }
 
 .links {
@@ -58,22 +50,52 @@ ul {
   justify-content: flex-end;
   align-items: space-between;
   flex: 2 1 0%;
-  margin-left:150px;
- 
+  margin-left: 150px;
 }
 
 .hero-box {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  padding-bottom: 60px;
 }
 .hero-box-left {
-flex: 1 1 0%;
+  flex: 1 1 0%;
+  margin-left: 60px;
 }
 
+#hero-main-text {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+#hero-secondary-text {
+  font-size: 22px;
+  font-family: 500;
+}
 .hero-box-right {
-flex: 2 1 0%;
+  flex: 2 1 0%;
+  justify-content: flex-end;
+}
+
+.hero-box-right img {
+  height: 60%;
+  width: 60%;
+  margin-left: 385px;
+}
+
+#no-border-button {
+  background: #f2d0a9;
+  color: #40916c;
+  border: none;
+  padding: 10px;
+  font: inherit;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 20px;
+  border-radius: 9px;
 }
 
 .info-box {
@@ -82,7 +104,7 @@ flex: 2 1 0%;
 }
 
 .quote-box {
-  background-color: #99c1b9;
+  background-color: #d88c9a;
   color: #495057;
 }
 
@@ -91,6 +113,6 @@ flex: 2 1 0%;
 }
 
 .call-to-action {
-  background-color: #d88c9a;
+  background-color: #8e7dbe;
   color: #f1e3d3;
 }
