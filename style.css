@@ -122,25 +122,20 @@ a {
 .shops {
   display: flex;
   align-items: center;
+  justify-content: center;
   padding: 100px;
   gap: 35px;
 }
 
 .shops img {
   display: flex;
+  width: auto;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   margin-bottom: 10px;
   max-height: 40vh;
   object-fit: contain;
   border: solid 5px #006d77;
-}
-
-.shops p {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
 }
 
 .quote-box {
