@@ -5,4 +5,14 @@ The objective is to use the provided image as a guide, and recreate a website us
 ## Provided guide
 ![provided guide one](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
 ## My version of this project
-![hero main]()
+![hero main](screenshots/hero.jpg)
+![info](screenshots/info.jpg)
+![quote and cta](screenshots/quote and cta.jpg)
+![cta and footer](screenshots/cta and footer.jpg)
+# Skills used
+-HTML
+-CSS mainly flexbox
+# Lessons learned
+
+# Future plans
+-[]Make website responsive
