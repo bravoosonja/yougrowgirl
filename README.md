@@ -19,5 +19,6 @@ The objective is to use the provided image as a guide, and recreate a website us
 # Lessons learned
 
 # Future plans
--[]Make website responsive
--[]Update Readme
+- [] Make website responsive
+- [] Fix info images to fit in the box
+- [] Update Readme
