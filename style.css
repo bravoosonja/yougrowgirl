@@ -65,12 +65,10 @@ a {
   justify-content: center;
   align-items: center;
   padding: 20px;
-  
 }
 
 .hero-box-left {
   flex: 1 1 0%;
-  
 }
 
 #hero-main-text {
@@ -126,14 +124,14 @@ a {
   align-items: center;
   justify-content: center;
   padding: 100px;
-  gap: 35px;
+  gap: 40px;
 }
 
 .shops img {
   display: flex;
   width: auto;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 10px;
   max-height: 40vh;
   object-fit: contain;
@@ -144,6 +142,35 @@ a {
 .quote-box {
   background-color: #d88c9a;
   color: #495057;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 50px;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px 100px;
+  gap: 20px;
+}
+
+#quote-text {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 40px;
+  display: flex;
+  text-align: center;
+}
+
+#author {
+  display: flex;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  justify-content: flex-end;
+  text-align: right;
 }
 
 .footer {
