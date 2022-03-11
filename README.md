@@ -1,5 +1,3 @@
-# yougrowgirl
-
 # Introduction
 This is a [landing page project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page) for the flexbox lession in the Fundamentals section of The Odin Project. 
 # Objective
