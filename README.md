@@ -26,9 +26,8 @@ The objective is to use the provided image as a guide, and recreate a website us
 - [ ] Make website responsive
 - [ ] Fix info images to fit in the box proportionately 
 - [ ] Update Readme
-# Credit
-## Images used
-[Vadim Kaipov](https://unsplash.com/@vadimkaipov)
-[Fen Ivanova](https://unsplash.com/@fenivanova)
+# Credit for images
+- [Vadim Kaipov](https://unsplash.com/@vadimkaipov)
+- [Fen Ivanova](https://unsplash.com/@fenivanova)
 
 
