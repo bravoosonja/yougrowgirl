@@ -1,5 +1,6 @@
 # Introduction
 This is a [landing page project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page) for the flexbox lession in the Fundamentals section of The Odin Project. It is also my first web development project.
+
 [Live Demo](https://bravoosonja.github.io/yougrowgirl/)
 # Objective
 The objective is to use the provided image as a guide, and recreate a website using the skills learned in the section of the course. Instead of blindly following the guide, I decided to create a website for a fictional plant shop named *you grow girl*🪴 and add a bit of colour. 
